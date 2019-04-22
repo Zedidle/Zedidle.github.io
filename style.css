@@ -1,0 +1,30 @@
+.cube{
+	height:10px;
+	width:10px;
+	border: 1px solid #EEE;
+	position:absolute;
+}
+
+.default{
+	background-color: #CCC;
+}
+
+.obstacle{
+	background-color: #444;
+}
+
+.open{
+	background-color: #1f6fb5;
+}
+
+.close{
+	background-color: #9dd3fa;
+}
+
+.result{
+	background-color: #Fcd692;
+}
+
+.start, .end {
+	background-color: #4CA;
+}
